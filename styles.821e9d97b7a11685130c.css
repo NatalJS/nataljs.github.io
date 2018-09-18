@@ -3865,7 +3865,8 @@ body {
   font-family: Roboto, sans-serif;
   font-weight: 400;
   font-size: 10px;
-  overflow-x: hidden; }
+  overflow-x: hidden;
+  padding-top: 46px; }
 
 .logo {
   display: block;
@@ -3881,10 +3882,11 @@ body {
   .logo {
     max-width: 300px; }
   body {
-    font-size: 16px; }
+    font-size: 16px;
+    padding-top: 105px; }
   .section {
     padding-bottom: 60px;
     padding-top: 60px; } }
 
 
-/*# sourceMappingURL=styles.db0ccf98849bc3f6a160.css.map*/
+/*# sourceMappingURL=styles.821e9d97b7a11685130c.css.map*/
