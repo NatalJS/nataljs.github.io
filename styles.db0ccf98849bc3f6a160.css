@@ -3634,8 +3634,8 @@ menu, ul {
   top: 0px;
   left: 0px;
   width: 100%;
-  background-color: #FFFFFF;
   z-index: 999;
+  background-color: #FFFFFF;
   justify-content: center;
   flex-direction: column;
   padding: 10px; }
@@ -3857,12 +3857,15 @@ menu, ul {
       .footer__copy {
         font-size: 0.750em; } }
 
+html, body {
+  width: 100%;
+  overflow-x: hidden; }
+
 body {
   font-family: Roboto, sans-serif;
   font-weight: 400;
   font-size: 10px;
-  overflow-x: hidden;
-  padding-top: 48px; }
+  overflow-x: hidden; }
 
 .logo {
   display: block;
@@ -3878,11 +3881,10 @@ body {
   .logo {
     max-width: 300px; }
   body {
-    font-size: 16px;
-    padding-top: 106px; }
+    font-size: 16px; }
   .section {
     padding-bottom: 60px;
     padding-top: 60px; } }
 
 
-/*# sourceMappingURL=styles.fa0a60597b8636d3eb58.css.map*/
+/*# sourceMappingURL=styles.db0ccf98849bc3f6a160.css.map*/
