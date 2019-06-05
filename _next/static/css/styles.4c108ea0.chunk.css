@@ -3541,21 +3541,21 @@ a.text-dark:hover, a.text-dark:focus {
   background-repeat: no-repeat;
   width: 280px;
   height: 62.22222px;
-  background-image: url(/./assets/waves-yellow.afaf34e71fdd8ae04af18d4b74798196.svg); }
+  background-image: url(/static/images/waves-yellow.svg); }
 
 .decorative-wave--white, .events:before {
   background-size: contain;
   background-repeat: no-repeat;
   width: 280px;
   height: 62.22222px;
-  background-image: url(/./assets/waves-white.f782a6eed6168f17123d67aeb4a7053a.svg); }
+  background-image: url(/static/images/waves-white.svg); }
 
 .decorative-wave--pink, .how-to:before {
   background-size: contain;
   background-repeat: no-repeat;
   width: 280px;
   height: 62.22222px;
-  background-image: url(/./assets/waves-pink.5c3ea575fe3f26b53a95178fb4676614.svg); }
+  background-image: url(/static/images/waves-pink.svg); }
 
 .section-title, .section-title--alternate {
   font-family: Roboto Condensed, sans-serif;
@@ -3668,7 +3668,7 @@ menu, ul {
   background-repeat: no-repeat;
   width: 120px;
   height: 26.66667px;
-  background-image: url(/./assets/waves-yellow.afaf34e71fdd8ae04af18d4b74798196.svg); }
+  background-image: url(/static/images/waves-yellow.svg); }
 
 @media (min-width: 576px) {
   .about {
@@ -3719,7 +3719,7 @@ menu, ul {
       background-repeat: no-repeat;
       width: 72px;
       height: 16px;
-      background-image: url(/./assets/waves-white.f782a6eed6168f17123d67aeb4a7053a.svg);
+      background-image: url(/static/images/waves-white.svg);
       content: '';
       position: absolute;
       left: 15px;
@@ -3738,7 +3738,7 @@ menu, ul {
         font-size: 1.250em; } }
     .events__location:before {
       content: '';
-      background-image: url(/./assets/location.116f09737707c9521157c0e89faa6088.svg);
+      background-image: url(/static/images/location.svg);
       width: 10px;
       height: 16px;
       display: inline-block;
@@ -3888,5 +3888,3 @@ body {
     padding-bottom: 60px;
     padding-top: 60px; } }
 
-
-/*# sourceMappingURL=styles.39f03e01cf2383eaad7d.css.map*/
