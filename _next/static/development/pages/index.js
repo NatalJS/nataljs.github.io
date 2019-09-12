@@ -11,7 +11,7 @@
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/davidcosta/workplace/nataljs-website/components/About.js";
+var _jsxFileName = "/home/david/workplace/nataljs-website/components/About.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -138,7 +138,7 @@ var About = function About() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/davidcosta/workplace/nataljs-website/components/CallForPapers.js";
+var _jsxFileName = "/home/david/workplace/nataljs-website/components/CallForPapers.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -197,7 +197,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var lodash_last__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! lodash/last */ "./node_modules/lodash/last.js");
 /* harmony import */ var lodash_last__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(lodash_last__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _signUp__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./signUp */ "./components/signUp.js");
-var _jsxFileName = "/Users/davidcosta/workplace/nataljs-website/components/Events.js";
+var _jsxFileName = "/home/david/workplace/nataljs-website/components/Events.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -458,7 +458,7 @@ var Events = function Events(_ref) {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/davidcosta/workplace/nataljs-website/components/Footer.js";
+var _jsxFileName = "/home/david/workplace/nataljs-website/components/Footer.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -551,7 +551,7 @@ var Footer = function Footer() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/davidcosta/workplace/nataljs-website/components/Header.js";
+var _jsxFileName = "/home/david/workplace/nataljs-website/components/Header.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -680,7 +680,7 @@ var Header = function Header() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/davidcosta/workplace/nataljs-website/components/HowTo.js";
+var _jsxFileName = "/home/david/workplace/nataljs-website/components/HowTo.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -747,7 +747,7 @@ var HowTo = function HowTo() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/davidcosta/workplace/nataljs-website/components/JoinToUs.js";
+var _jsxFileName = "/home/david/workplace/nataljs-website/components/JoinToUs.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -831,7 +831,7 @@ var JoinToUs = function JoinToUs() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/davidcosta/workplace/nataljs-website/components/signUp.js";
+var _jsxFileName = "/home/david/workplace/nataljs-website/components/signUp.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -862,7 +862,7 @@ var SignUp = function SignUp(_ref) {
 /*! exports provided: events, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"events\":[{\"id\":2,\"title\":\"O estado atual do front-end no mercado de trabalho\",\"address\":\"IMD UFRN\",\"startAt\":\"2018-09-15T08:30:00-03:00\",\"subscriptionLink\":null,\"endAt\":\"2018-08-15T12:00:00-03:00\",\"sections\":[{\"id\":4,\"title\":\"KEYNOTES\",\"subtitle\":\"8H30 ÀS 9H30\",\"talks\":[{\"id\":7,\"title\":\"Javascript para Dinossauros\",\"room\":null,\"speaker\":\"Jaon\",\"position\":\"Front-End na Evolux\",\"image\":\"/static/images/speakers/avatar-jaon.png\",\"startAt\":\"2018-09-22T09:00:00-03:00\"},{\"id\":8,\"title\":\"Hyped JS: o que os devs descolados estão usando\",\"room\":null,\"speaker\":\"Neto Guimarães\",\"position\":\"Front-End na Evolux\",\"image\":\"/static/images/speakers/avatar-neto.png\",\"startAt\":\"2018-09-22T09:20:00-03:00\"},{\"id\":9,\"title\":\"Conhecendo a Comunidade open source\",\"room\":null,\"speaker\":\"Marcell Guilherme\",\"position\":\"Front-End na Evolux\",\"image\":\"/static/images/speakers/avatar-marcell.png\",\"startAt\":\"2018-09-22T09:40:00-03:00\"}]},{\"id\":5,\"title\":\"WORKSHOPS\",\"subtitle\":\"10H ÀS 12H\",\"talks\":[{\"id\":10,\"title\":\"Procura de heróis na Marvel com Javascript\",\"room\":null,\"speaker\":\"Gustavo Freire\",\"position\":\"Front-End na Evolux\",\"image\":\"/static/images/speakers/avatar-gustavo.png\",\"startAt\":\"2018-09-22T10:00:00-03:00\"},{\"id\":11,\"title\":\"Hello World: criando e configuando seu primeiro projeto web\",\"room\":null,\"speaker\":\"Jhonny Michel \",\"position\":\"Front-End na Evolux\",\"image\":\"/static/images/speakers/avatar-jhonny.png\",\"startAt\":\"2018-09-22T10:00:00-03:00\"}]}]},{\"id\":1,\"title\":\"Natal JS 2: Javascripters, rejoice!\",\"address\":\"IMD UFRN\",\"startAt\":\"2019-05-15T08:30:00-03:00\",\"subscriptionLink\":\"https://docs.google.com/forms/d/e/1FAIpQLSdWT3MnHCGjhBp7dn5KYTfd61eysoO93TB8Alz12u2vmXiJ-Q/viewform\",\"endAt\":\"2019-05-15T12:00:00-03:00\",\"sponsors\":[{\"id\":1,\"name\":\"Evolux Sistemas\",\"image\":\"/static/images/evolux.svg\",\"link\":\"https://www.evolux.net.br/vagas\"}],\"sections\":[{\"id\":1,\"title\":\"PALESTRAS: SALA B206\",\"subtitle\":\"INICIO 8H30\",\"talks\":[{\"id\":1,\"title\":\"Javascript everywhere\",\"speaker\":\"Stefan Yohansson\",\"image\":\"/static/images/speakers/avatar-stefan.png\",\"startAt\":\"2019-05-15T09:00:00-03:00\"},{\"id\":2,\"title\":\"JavaScript para programadores Python\",\"speaker\":\"Wallysson Lima\",\"image\":\"/static/images/speakers/avatar-wallysson.png\",\"startAt\":\"2019-05-15T09:20:00-03:00\"},{\"id\":3,\"title\":\"React Native autenticação com AWS Amplify\",\"speaker\":\"Gilmar Silva\",\"image\":\"/static/images/speakers/avatar-gilmar.png\",\"startAt\":\"2019-05-15T09:40:00-03:00\"},{\"id\":4,\"title\":\"Desenvolvimento 3D na web\",\"speaker\":\"Daniel Fernandes\",\"image\":\"/static/images/speakers/avatar-daniel.png\",\"startAt\":\"2019-05-15T10:00:00-03:00\"}]},{\"id\":2,\"title\":\"COFFEE BREAK\",\"subtitle\":\"10H25\"},{\"id\":3,\"title\":\"WORKSHOPS\",\"subtitle\":\"INÍCIO 10H50\",\"description\":\"Os workshops ocorrerão simultaneamente.\",\"talks\":[{\"id\":5,\"title\":\"Contribuição para grandes projetos opensource\",\"room\":\"SALA A303\",\"speaker\":\"Stefan Yohansson\",\"image\":\"/static/images/speakers/avatar-stefan.png\",\"startAt\":\"2019-05-15T10:50:00-03:00\"},{\"id\":6,\"title\":\"Criando sua primeira aplicação em React.js\",\"room\":\"SALA A104\",\"speaker\":\"Gustavo Freire\",\"image\":\"/static/images/speakers/avatar-gustavo.png\",\"startAt\":\"2019-05-15T10:50:00-03:00\"}]}]},{\"id\":3,\"title\":\"Natal JS 3: A terceira vez é ainda melhor\",\"address\":\"Sebrae\",\"startAt\":\"2019-09-14T09:00:00-03:00\",\"subscriptionLink\":null,\"endAt\":\"2019-09-14T12:00:00-03:00\",\"call4papers\":{\"endAt\":\"2019-08-23T18:00:00-03:00\",\"link\":\"https://speakerfight.com/events/iii-meetup-da-nataljs/\"},\"sections\":[{\"id\":6,\"title\":\"PALESTRAS: 1 PARTE\",\"subtitle\":\"9H\",\"talks\":[{\"id\":12,\"title\":\"Além de validar formulários: usando React pra criar um telefone web\",\"speaker\":\"Marcell G. C. da Silva\",\"image\":\"/static/images/speakers/avatar-marcell.png\",\"startAt\":\"2019-09-14T09:00:00-03:00\"},{\"id\":13,\"title\":\"Como NÃO aprender react.js\",\"speaker\":\"Thayrone Santos\",\"image\":\"/static/images/speakers/avatar-thayrone.png\",\"startAt\":\"2019-09-14T09:20:00-03:00\"},{\"id\":14,\"title\":\"Como diminuir a chance do seu código dar M#$%\",\"speaker\":\"Adalberto Camacho Jr.\",\"image\":\"/static/images/speakers/avatar-adalberto.png\",\"startAt\":\"2019-09-14T09:40:00-03:00\"},{\"id\":15,\"title\":\"Sou um QA, só sei Python e quero aprender JS\",\"speaker\":\"Rodrigo Muniz\",\"image\":\"/static/images/speakers/avatar-rodrigo.png\",\"startAt\":\"2019-09-14T10:00:00-03:00\"}]},{\"id\":7,\"title\":\"COFFEE BREAK\",\"subtitle\":\"10H20\"},{\"id\":8,\"title\":\"PALESTRAS: 2 PARTE\",\"subtitle\":\"10H40\",\"talks\":[{\"id\":16,\"title\":\"Debugger is on the table: Utilizando Debugger + Dev Tools para investigações mais avançadas\",\"speaker\":\"Zenobio\",\"image\":\"/static/images/speakers/avatar-zenobio.png\",\"startAt\":\"2019-09-14T10:40:00-03:00\"},{\"id\":17,\"title\":\"O processo de não reinventar a roda usando lodash.js\",\"speaker\":\"Neto Guimarães\",\"image\":\"/static/images/speakers/avatar-neto.png\",\"startAt\":\"2019-09-14T11:00:00-03:00\"},{\"id\":18,\"title\":\"Como 'magicamente' criar um PWA com Vue em 20 minutos\",\"speaker\":\"Daniel Lopes\",\"image\":\"/static/images/speakers/avatar-daniel-lopes.png\",\"startAt\":\"2019-09-14T11:20:00-03:00\"},{\"id\":19,\"title\":\"Javacript para IOT\",\"speaker\":\"Gustavo Freire Santos\",\"image\":\"/static/images/speakers/avatar-gustavo.png\",\"startAt\":\"2019-09-14T11:40:00-03:00\"}]}]}]}");
+module.exports = JSON.parse("{\"events\":[{\"id\":2,\"title\":\"O estado atual do front-end no mercado de trabalho\",\"address\":\"IMD UFRN\",\"startAt\":\"2018-09-15T08:30:00-03:00\",\"subscriptionLink\":null,\"endAt\":\"2018-08-15T12:00:00-03:00\",\"sections\":[{\"id\":4,\"title\":\"KEYNOTES\",\"subtitle\":\"8H30 ÀS 9H30\",\"talks\":[{\"id\":7,\"title\":\"Javascript para Dinossauros\",\"room\":null,\"speaker\":\"Jaon\",\"position\":\"Front-End na Evolux\",\"image\":\"/static/images/speakers/avatar-jaon.png\",\"startAt\":\"2018-09-22T09:00:00-03:00\"},{\"id\":8,\"title\":\"Hyped JS: o que os devs descolados estão usando\",\"room\":null,\"speaker\":\"Neto Guimarães\",\"position\":\"Front-End na Evolux\",\"image\":\"/static/images/speakers/avatar-neto.png\",\"startAt\":\"2018-09-22T09:20:00-03:00\"},{\"id\":9,\"title\":\"Conhecendo a Comunidade open source\",\"room\":null,\"speaker\":\"Marcell Guilherme\",\"position\":\"Front-End na Evolux\",\"image\":\"/static/images/speakers/avatar-marcell.png\",\"startAt\":\"2018-09-22T09:40:00-03:00\"}]},{\"id\":5,\"title\":\"WORKSHOPS\",\"subtitle\":\"10H ÀS 12H\",\"talks\":[{\"id\":10,\"title\":\"Procura de heróis na Marvel com Javascript\",\"room\":null,\"speaker\":\"Gustavo Freire\",\"position\":\"Front-End na Evolux\",\"image\":\"/static/images/speakers/avatar-gustavo.png\",\"startAt\":\"2018-09-22T10:00:00-03:00\"},{\"id\":11,\"title\":\"Hello World: criando e configuando seu primeiro projeto web\",\"room\":null,\"speaker\":\"Jhonny Michel \",\"position\":\"Front-End na Evolux\",\"image\":\"/static/images/speakers/avatar-jhonny.png\",\"startAt\":\"2018-09-22T10:00:00-03:00\"}]}]},{\"id\":1,\"title\":\"Natal JS 2: Javascripters, rejoice!\",\"address\":\"IMD UFRN\",\"startAt\":\"2019-05-15T08:30:00-03:00\",\"subscriptionLink\":\"https://docs.google.com/forms/d/e/1FAIpQLSdWT3MnHCGjhBp7dn5KYTfd61eysoO93TB8Alz12u2vmXiJ-Q/viewform\",\"endAt\":\"2019-05-15T12:00:00-03:00\",\"sponsors\":[{\"id\":1,\"name\":\"Evolux Sistemas\",\"image\":\"/static/images/evolux.svg\",\"link\":\"https://www.evolux.net.br/vagas\"}],\"sections\":[{\"id\":1,\"title\":\"PALESTRAS: SALA B206\",\"subtitle\":\"INICIO 8H30\",\"talks\":[{\"id\":1,\"title\":\"Javascript everywhere\",\"speaker\":\"Stefan Yohansson\",\"image\":\"/static/images/speakers/avatar-stefan.png\",\"startAt\":\"2019-05-15T09:00:00-03:00\"},{\"id\":2,\"title\":\"JavaScript para programadores Python\",\"speaker\":\"Wallysson Lima\",\"image\":\"/static/images/speakers/avatar-wallysson.png\",\"startAt\":\"2019-05-15T09:20:00-03:00\"},{\"id\":3,\"title\":\"React Native autenticação com AWS Amplify\",\"speaker\":\"Gilmar Silva\",\"image\":\"/static/images/speakers/avatar-gilmar.png\",\"startAt\":\"2019-05-15T09:40:00-03:00\"},{\"id\":4,\"title\":\"Desenvolvimento 3D na web\",\"speaker\":\"Daniel Fernandes\",\"image\":\"/static/images/speakers/avatar-daniel.png\",\"startAt\":\"2019-05-15T10:00:00-03:00\"}]},{\"id\":2,\"title\":\"COFFEE BREAK\",\"subtitle\":\"10H25\"},{\"id\":3,\"title\":\"WORKSHOPS\",\"subtitle\":\"INÍCIO 10H50\",\"description\":\"Os workshops ocorrerão simultaneamente.\",\"talks\":[{\"id\":5,\"title\":\"Contribuição para grandes projetos opensource\",\"room\":\"SALA A303\",\"speaker\":\"Stefan Yohansson\",\"image\":\"/static/images/speakers/avatar-stefan.png\",\"startAt\":\"2019-05-15T10:50:00-03:00\"},{\"id\":6,\"title\":\"Criando sua primeira aplicação em React.js\",\"room\":\"SALA A104\",\"speaker\":\"Gustavo Freire\",\"image\":\"/static/images/speakers/avatar-gustavo.png\",\"startAt\":\"2019-05-15T10:50:00-03:00\"}]}]},{\"id\":3,\"title\":\"Natal JS 3: A terceira vez é ainda melhor\",\"address\":\"Sebrae\",\"startAt\":\"2019-09-14T09:00:00-03:00\",\"subscriptionLink\":null,\"endAt\":\"2019-09-14T12:00:00-03:00\",\"call4papers\":{\"endAt\":\"2019-08-23T18:00:00-03:00\",\"link\":\"https://speakerfight.com/events/iii-meetup-da-nataljs/\"},\"sections\":[{\"id\":6,\"title\":\"PALESTRAS: 1 PARTE\",\"subtitle\":\"9H\",\"talks\":[{\"id\":13,\"title\":\"Como NÃO aprender react.js\",\"speaker\":\"Thayrone Santos\",\"image\":\"/static/images/speakers/avatar-thayrone.png\",\"startAt\":\"2019-09-14T09:00:00-03:00\"},{\"id\":14,\"title\":\"Como diminuir a chance do seu código dar M#$%\",\"speaker\":\"Adalberto Camacho Jr.\",\"image\":\"/static/images/speakers/avatar-adalberto.png\",\"startAt\":\"2019-09-14T09:20:00-03:00\"},{\"id\":15,\"title\":\"Sou um QA, só sei Python e quero aprender JS\",\"speaker\":\"Rodrigo Muniz\",\"image\":\"/static/images/speakers/avatar-rodrigo.png\",\"startAt\":\"2019-09-14T09:40:00-03:00\"},{\"id\":16,\"title\":\"Debugger is on the table: Utilizando Debugger + Dev Tools para investigações mais avançadas\",\"speaker\":\"Zenobio Pereira\",\"image\":\"/static/images/speakers/avatar-zenobio.png\",\"startAt\":\"2019-09-14T10:00:00-03:00\"}]},{\"id\":7,\"title\":\"COFFEE BREAK\",\"subtitle\":\"10H20\"},{\"id\":8,\"title\":\"PALESTRAS: 2 PARTE\",\"subtitle\":\"10H40\",\"talks\":[{\"id\":12,\"title\":\"Além de validar formulários: usando React pra criar um telefone web\",\"speaker\":\"Marcell G. C. da Silva\",\"image\":\"/static/images/speakers/avatar-marcell.png\",\"startAt\":\"2019-09-14T10:40:00-03:00\"},{\"id\":17,\"title\":\"O processo de não reinventar a roda usando lodash.js\",\"speaker\":\"Neto Guimarães\",\"image\":\"/static/images/speakers/avatar-neto.png\",\"startAt\":\"2019-09-14T11:00:00-03:00\"},{\"id\":18,\"title\":\"Como 'magicamente' criar um PWA com Vue em 20 minutos\",\"speaker\":\"Daniel Lopes\",\"image\":\"/static/images/speakers/avatar-daniel-lopes.png\",\"startAt\":\"2019-09-14T11:20:00-03:00\"},{\"id\":19,\"title\":\"Javacript para IOT\",\"speaker\":\"Gustavo Freire Santos\",\"image\":\"/static/images/speakers/avatar-gustavo.png\",\"startAt\":\"2019-09-14T11:40:00-03:00\"}]}]}]}");
 
 /***/ }),
 
@@ -14714,10 +14714,10 @@ exports["default"] = function () {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fdavidcosta%2Fworkplace%2Fnataljs-website%2Fpages%2Findex.js!./":
-/*!***********************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fdavidcosta%2Fworkplace%2Fnataljs-website%2Fpages%2Findex.js ***!
-  \***********************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fdavid%2Fworkplace%2Fnataljs-website%2Fpages%2Findex.js!./":
+/*!*****************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fdavid%2Fworkplace%2Fnataljs-website%2Fpages%2Findex.js ***!
+  \*****************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15330,7 +15330,7 @@ var _content_data_json__WEBPACK_IMPORTED_MODULE_19___namespace = /*#__PURE__*/__
 
 
 
-var _jsxFileName = "/Users/davidcosta/workplace/nataljs-website/pages/index.js";
+var _jsxFileName = "/home/david/workplace/nataljs-website/pages/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement;
 
 
@@ -15502,13 +15502,13 @@ var isFuture = function isFuture(endAtISO) {
 /***/ }),
 
 /***/ 0:
-/*!***************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fdavidcosta%2Fworkplace%2Fnataljs-website%2Fpages%2Findex.js ***!
-  \***************************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fdavid%2Fworkplace%2Fnataljs-website%2Fpages%2Findex.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fdavidcosta%2Fworkplace%2Fnataljs-website%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fdavidcosta%2Fworkplace%2Fnataljs-website%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fdavid%2Fworkplace%2Fnataljs-website%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fdavid%2Fworkplace%2Fnataljs-website%2Fpages%2Findex.js!./");
 
 
 /***/ }),
