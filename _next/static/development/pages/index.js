@@ -70,54 +70,54 @@ var About = function About() {
       lineNumber: 11
     },
     __self: this
-  }, "O que \xE9 a natal JS?"), __jsx("article", {
+  }, "natal.ls + DevFest Nordeste"), __jsx("article", {
     className: "article",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
+      lineNumber: 12
     },
     __self: this
   }, __jsx("header", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
+      lineNumber: 13
     },
     __self: this
   }, __jsx("h1", {
     className: "article__title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
+      lineNumber: 14
     },
     __self: this
-  }, "Comunidade para discutir javascript em Natal-RN")), __jsx("p", {
+  }, "Quis da natal.js")), __jsx("p", {
     className: "article__body",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
+      lineNumber: 16
     },
     __self: this
-  }, "Os objetivos s\xE3o: ajudar os programadores a obter um melhor conhecimento de programa\xE7\xE3o em javascript; aproximar programadores locais; organizar encontros, confer\xEAncias e contribuir com projetos open-source relacionados aos estudos."), __jsx("footer", {
+  }, "Participe responda nosso quis!"), __jsx("footer", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
+      lineNumber: 17
     },
     __self: this
   }, __jsx("a", {
-    href: "https://github.com/NatalJS",
+    href: "http://815272ec.ngrok.io/",
     className: "btn",
-    title: "https://github.com/NatalJS",
+    title: "http://815272ec.ngrok.io/",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 18
     },
     __self: this
-  }, "Acesse nosso Github"))), __jsx("div", {
+  }, "Acessar O Quis!"))), __jsx("div", {
     className: "about__wave",
     "aria-hidden": "true",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
+      lineNumber: 23
     },
     __self: this
   })));
@@ -15407,26 +15407,13 @@ function (_React$Component) {
           lineNumber: 39
         },
         __self: this
-      }), __jsx(_components_HowTo__WEBPACK_IMPORTED_MODULE_14__["default"], {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 40
-        },
-        __self: this
       })), lodash_has__WEBPACK_IMPORTED_MODULE_11___default()(lastEvent, 'call4papers.endAt') && Object(_utils_date__WEBPACK_IMPORTED_MODULE_20__["isFuture"])(lastEvent.call4papers.endAt) && __jsx(_components_CallForPapers__WEBPACK_IMPORTED_MODULE_17__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({}, lastEvent.call4papers, {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 43
         },
         __self: this
-      })), __jsx(_components_Events__WEBPACK_IMPORTED_MODULE_15__["default"], {
-        events: events,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 45
-        },
-        __self: this
-      }), __jsx(_components_JoinToUs__WEBPACK_IMPORTED_MODULE_16__["default"], {
+      })), __jsx(_components_JoinToUs__WEBPACK_IMPORTED_MODULE_16__["default"], {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 46
