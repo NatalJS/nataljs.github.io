@@ -70,7 +70,7 @@ var About = function About() {
       lineNumber: 11
     },
     __self: this
-  }, "natal.ls + DevFest Nordeste"), __jsx("article", {
+  }, "natal.js + DevFest Nordeste"), __jsx("article", {
     className: "article",
     __source: {
       fileName: _jsxFileName,
@@ -90,17 +90,17 @@ var About = function About() {
       lineNumber: 14
     },
     __self: this
-  }, "Quis da natal.js")), __jsx("p", {
+  }, "Quiz da natal.js")), __jsx("p", {
     className: "article__body",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
     },
     __self: this
-  }, "Participe responda nosso quis!"), __jsx("footer", {
+  }, "Responda o quiz para participar do sorteio, e concorra a brindes!"), __jsx("footer", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
+      lineNumber: 19
     },
     __self: this
   }, __jsx("a", {
@@ -109,15 +109,15 @@ var About = function About() {
     title: "http://815272ec.ngrok.io/",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
+      lineNumber: 20
     },
     __self: this
-  }, "Acesse O Quis!"))), __jsx("div", {
+  }, "Acessar O Quiz!"))), __jsx("div", {
     className: "about__wave",
     "aria-hidden": "true",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
+      lineNumber: 25
     },
     __self: this
   })));
@@ -128,4 +128,4 @@ var About = function About() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.a9f950b0d0b54040f4e0.hot-update.js.map
+//# sourceMappingURL=index.js.1baea2d909996ff7ea65.hot-update.js.map
